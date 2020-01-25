@@ -1,0 +1,7 @@
+中文	英文	score
+no	不	0
+yes	是	0
+hello	你好	0
+good	好	0
+next	下一个	0
+english	英语	0
